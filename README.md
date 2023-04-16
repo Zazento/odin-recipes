@@ -1,3 +1,4 @@
 # odin-recipes
 
-Hello today i am gonnna make a recipes website i am going to use my html knowlegde i learnt so far to create this website and use git to save versions of this website
+In this project I will be making a recipes web page to show you some of my fav food.
+Please let me know what you think about the site and the recipes.
